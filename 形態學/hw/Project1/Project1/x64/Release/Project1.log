@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\programfile\digital image\next\hw1\Project1\Project1\MyForm.h(254,75): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+  MyForm.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  Project1.vcxproj -> D:\programfile\digital image\next\hw1\Project1\x64\Release\Project1.exe
