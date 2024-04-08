@@ -1,0 +1,4 @@
+D:\programfile\digital image\next\hw2\hw\OpenCVtoGray\OpenCVtoGray\x64\Release\OpenCVtoGray.vcxproj.AssemblyReference.cache
+D:\programfile\digital image\next\hw2\hw\OpenCVtoGray\OpenCVtoGray\x64\Release\OpenCVtoGray.vcxproj.SuggestedBindingRedirects.cache
+D:\programfile\digital image\next\hw2\hw\OpenCVtoGray\OpenCVtoGray\x64\Release\OpenCVtoGray.MyForm.resources
+D:\programfile\digital image\next\hw2\hw\OpenCVtoGray\OpenCVtoGray\x64\Release\OpenCVtoGray.vcxproj.GenerateResource.cache
