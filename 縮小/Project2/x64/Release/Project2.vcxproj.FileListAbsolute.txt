@@ -1,0 +1,8 @@
+D:\programfile\digital image\hw1\Project2\Project2\x64\Release\Project2.vcxproj.AssemblyReference.cache
+D:\programfile\digital image\hw1\Project2\Project2\x64\Release\Project2.vcxproj.SuggestedBindingRedirects.cache
+D:\programfile\digital image\hw1\Project2\Project2\x64\Release\Project2.MyForm.resources
+D:\programfile\digital image\hw1\Project2\Project2\x64\Release\Project2.vcxproj.GenerateResource.cache
+D:\programfile\digital image\hw1\Project3\Project2\x64\Release\Project2.vcxproj.AssemblyReference.cache
+D:\programfile\digital image\hw1\Project3\Project2\x64\Release\Project2.vcxproj.SuggestedBindingRedirects.cache
+D:\programfile\digital image\hw1\Project3\Project2\x64\Release\Project2.MyForm.resources
+D:\programfile\digital image\hw1\Project3\Project2\x64\Release\Project2.vcxproj.GenerateResource.cache
