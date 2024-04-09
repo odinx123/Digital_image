@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+D:\programfile\digital image\next\hw3\OpenCVtoGray\OpenCVtoGray\MyForm.h(40,14): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+D:\programfile\digital image\next\hw3\OpenCVtoGray\OpenCVtoGray\MyForm.h(213,25): warning C4244: '=': 將 'double' 轉換為 'long'，由於類型不同，可能導致資料遺失
+D:\programfile\digital image\next\hw3\OpenCVtoGray\OpenCVtoGray\MyForm.h(214,30): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\programfile\digital image\next\hw3\OpenCVtoGray\OpenCVtoGray\MyForm.h(220,16): warning C4244: '正在初始化': 將 'double' 轉換為 'long'，由於類型不同，可能導致資料遺失
+D:\programfile\digital image\next\hw3\OpenCVtoGray\OpenCVtoGray\MyForm.h(226,53): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\programfile\digital image\next\hw3\OpenCVtoGray\OpenCVtoGray\MyForm.h(425,15): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\programfile\digital image\next\hw3\OpenCVtoGray\OpenCVtoGray\MyForm.h(437,1): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\programfile\digital image\next\hw3\OpenCVtoGray\OpenCVtoGray\MyForm.h(440,1): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\programfile\digital image\next\hw3\OpenCVtoGray\OpenCVtoGray\MyForm.h(516,16): warning C4244: '正在初始化': 將 'double' 轉換為 'long'，由於類型不同，可能導致資料遺失
+MyForm.obj : warning LNK4248: 無法解析的 typeref 語彙基元 (01000024) (對 'cv.IVideoCapture' 而言)，映像可能無法執行
+MyForm.obj : warning LNK4248: 無法解析的 typeref 語彙基元 (01000025) (對 'CvCapture' 而言)，映像可能無法執行
+  OpenCVtoGray.vcxproj -> D:\programfile\digital image\next\hw3\OpenCVtoGray\x64\Release\OpenCVtoGray.exe
